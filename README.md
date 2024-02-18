@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sand7ip, Lead Data Scientist Johnson & Johnson
+- 👋 Hi, I’m @sand7ip, Data Science Manager at IQVIA, ex-Johnson & Johnson
 - 👀 I’m interested in ML, NLP and CV
 
 
